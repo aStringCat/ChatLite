@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ChatLite</string>
+
+    <string name="account_name_1">Alex</string>
+    <string name="account_name_2">Brenda</string>
+    <string name="account_name_3">Charles</string>
+    <string name="account_name_4">Diana</string>
+
+    <string name="message_content_1">Hey, just wanted to give you a quick update on the project. Everything is on track for the deadline.</string>
+    <string name="message_content_2">That\'s great to hear! Thanks for the update.</string>
+    <string name="message_content_3">Are you free for lunch tomorrow? There\'s a new cafe I want to check out.</string>
+    <string name="message_content_4">I was thinking we could go hiking this weekend. Are you interested?</string>
+
+    <string name="message_time_1">20 mins ago</string>
+    <string name="message_time_2">15 mins ago</string>
+    <string name="message_time_3">1 hour ago</string>
+    <string name="message_time_4">Yesterday</string>
 </resources>

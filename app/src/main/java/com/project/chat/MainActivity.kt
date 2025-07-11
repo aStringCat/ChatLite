@@ -1,4 +1,4 @@
-package com.project.chatlight
+package com.project.chat
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -49,6 +49,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
 @Preview(showBackground = true)
 @Composable
 fun ChatAppCompactPreview() {
