@@ -74,7 +74,7 @@ fun ChatAppMediumPreview() {
     }
 }
 
-@Preview(showBackground = true, widthDp = 1000)
+@Preview(showBackground = true, widthDp = 1200)
 @Composable
 fun ChatAppExpandedPreview() {
     ChatLiteTheme {
